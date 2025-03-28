@@ -1,7 +1,7 @@
 # UniBus
 基于SpringBoot和UniApp的公交线路查询系统设计
 
-演示视频链接：https://live.csdn.net/v/291078
+演示视频链接：https://www.bilibili.com/video/BV1Fs4y1A71w/
 
 整个项目实现的功能：
 
